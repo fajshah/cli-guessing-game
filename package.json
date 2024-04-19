@@ -1,6 +1,6 @@
 {
-  "name": "cli-guessing-game",
-  "version": "1.0.0",
+  "name": "faj2-cli-guessing-game",
+  "version": "1.0.1",
   "description": "i made this guessing game my 2nd repo",
   "main": "index.js",
   "type": "module",
